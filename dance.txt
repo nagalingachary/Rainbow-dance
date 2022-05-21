@@ -1,3 +1,10 @@
 step down 
 step up
 twirl round
+move left
+move right
+jump 
+variety of dance
+stunning dance
+super
+oh my god
